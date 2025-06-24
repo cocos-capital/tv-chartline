@@ -9,6 +9,12 @@
   "files": [
     "charting_library"
   ],
+  "exports": {
+    ".": {
+      "import": "./charting_library/charting_library.js",
+      "types": "./charting_library/charting_library.d.ts"
+    }
+  },
   "keywords": [
     "tradingview",
     "charting_library"
