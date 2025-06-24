@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "name": "tv-chartline",
   "version": "1.0.0",
   "description": "Bundle minificado de TradingView Charting Library",
