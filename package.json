@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "name": "tv-chartline",
+  "version": "1.0.0",
+  "description": "Bundle minificado de TradingView Charting Library",
+  "type": "module",
+  "main": "charting_library/charting_library.js",
+  "types": "charting_library/charting_library.d.ts",
+  "files": [
+    "charting_library"
+  ],
+  "keywords": [
+    "tradingview",
+    "charting_library"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cocos-capital/tv-chartline.git"
+  }
+}
